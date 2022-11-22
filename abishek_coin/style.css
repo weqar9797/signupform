@@ -1,0 +1,26 @@
+header{
+    background-color: darkgrey;
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    width: 100%;
+    margin: 0;
+    
+}
+footer{
+    border-top: 1px solid #ddd;
+    background-color: antiquewhite;
+    font-size: 1em;
+}
+div{
+    text-align: center;
+    height: auto;
+}
+#sections{
+    height:100%;
+   
+}
+footer{
+    height:10%;
+   
+}
